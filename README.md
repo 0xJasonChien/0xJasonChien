@@ -5,7 +5,7 @@
   "role": ["Software Engineer", "Backend Engineer"],
   "experience": "2 years of experience in Django and PostgreSQL",
   "languages": ["Mandarin", "English"],
-  "skills": ["Python", "JavaScript", "Django", "Docker", "PostgreSQL", "ECS", "Route 53", "S3", "RDS", "EC2"],
+  "skills": ["Python", "JavaScript", "Django", "Docker", "PostgreSQL", "AWS"],
   "interests": ["Scalable APIs", "Performance optimization", "Automation"],
   "mission": "Building elegant solutions and enjoying the process of learning every day 🚀"
 }
